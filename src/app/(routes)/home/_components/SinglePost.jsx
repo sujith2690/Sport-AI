@@ -43,7 +43,7 @@ const SinglePost = () => {
 
                 </div>
                 <div className="space-x-2">
-                    <button aria-label="Share this post" type="button" className="p-2 text-center cursor-pointer">
+                    <button aria-label="Share this post" type="button" className="p-2 text-center cursor-pointer   ">
                         <Share2 className='w-4 h-4' />
                     </button>
                     <button aria-label="Bookmark this post" type="button" className="p-2 cursor-pointer">
